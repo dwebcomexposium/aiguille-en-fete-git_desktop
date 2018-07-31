@@ -20,7 +20,7 @@ var texteListeExposant = $(".linkid237523 span, .linkid240723 span");
     currentlyAnimating = true;
     $(texteListeExposant).animate({opacity:0})
        .queue(function(){
-          $(this).text("Coming soon...").after('<img src="/theme/aiguille-en-fete_desktop/img/ciseaux.gif"/>');
+          $(this).text("Coming soon...").after('<img src="/theme/aiguille-en-fete-git_desktop/img/ciseaux.gif"/>');
           $(this).dequeue()}).animate({opacity:1});
 
     setTimeout(function(){
@@ -38,7 +38,7 @@ var texteListeExposant = $(".linkid237523 span, .linkid240723 span");
     currentlyAnimating = true;
     $(texteListeExposant).animate({opacity:0})
        .queue(function(){
-          $(this).text("Bientôt disponible...").after('<img src="/theme/aiguille-en-fete_desktop/img/ciseaux.gif"/>');
+          $(this).text("Bientôt disponible...").after('<img src="/theme/aiguille-en-fete-git_desktop/img/ciseaux.gif"/>');
           $(this).dequeue()}).animate({opacity:1});
           
 
