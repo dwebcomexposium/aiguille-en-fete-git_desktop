@@ -1,0 +1,71 @@
+.logo1:hover, .logo2:hover {
+    -webkit-transition: all 500ms ease-in;
+    -webkit-transform: scale(1.1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.1);   
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.1);
+    transition: all 200ms ease-in;
+    transform: scale(1.1);
+}
+
+@-moz-document url-prefix() {
+    .logo2 {
+        width: 75% !important;
+        position: relative !important;
+        z-index: 99 !important;
+    }
+    #imageLogo {
+        position: absolute !important; 
+        bottom: 35% !important;
+        right: 2% !important;
+    }
+    .logo1 {
+        margin-right: -50% !important;
+    }
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+     .logo2 {
+       width: 80% !important;
+       margin-left: -120% !important;
+     }
+}
+
+@supports (-ms-accelerator:true) {
+     .logo2 {
+       width: 80% !important;
+       margin-left: -120% !important;
+     }
+}
+
+
+/****LISTE DES CONTACTS ****/
+.contact .contacts-list .inside {
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+}
+
+.contact .contacts-list .inside h1 {
+    font-family: playfair display,serif!important;
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 900;
+    color: #1d1d1b;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    margin: 28px 0 28px;
+}
+
+
+.contact .contacts-list .cl-content.animate.animated {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.contact .contacts-list .cl-item .cl-item-illust{
+    display:none
+}
+
