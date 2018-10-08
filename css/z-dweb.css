@@ -69,4 +69,22 @@
     display:none
 }
 
+.contact .contacts-list .cl-item .cl-item-illust{
+display:none;
+}
+
+.contact .contacts-list h1 {
+    font-family: 'Playfair Display', serif !important;
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 900;
+    color: #1d1d1b;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    margin: 0 0 28px;
+}
+.contact .contacts-list .cl-item-photo img {
+    max-width: initial;
+}
 
