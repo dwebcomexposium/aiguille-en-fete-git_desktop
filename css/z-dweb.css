@@ -1,3 +1,7 @@
+#cxpmClientAccountWidget{
+position : fixed !important;
+}
+
 .logo1:hover, .logo2:hover {
     -webkit-transition: all 500ms ease-in;
     -webkit-transform: scale(1.1);
@@ -85,7 +89,4 @@ display:none;
 }
 .contact .contacts-list .cl-item-photo img {
     max-width: initial;
-}
-#cxpmClientAccountWidget{
-position : fixed !important;
 }
