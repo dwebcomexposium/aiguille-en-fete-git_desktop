@@ -147,43 +147,43 @@
 	}
 
 	// Newsletter 
-	// if ($('.newsletter-form').length) {
-	// 	var $form = $('.newsletter-form');
+	 if ($('.newsletter-form').length) {
+	 	var $form = $('.newsletter-form');
 
-	// 	$form
-	// 		.detach()
-	// 		.appendTo('body');
-	// 	$form
-	// 		.find('.nf-form-input input')
-	// 		.attr('placeholder', 'Votre email');
-	// 	$form
-	// 		.find('.nf-main-content')
-	// 		.append('<a href="#" class="form-close"/>');
+	 	$form
+	 		.detach()
+	 		.appendTo('body');
+	 	$form
+	 		.find('.nf-form-input input')
+	 		.attr('placeholder', 'Votre email');
+	 	$form
+	 		.find('.nf-main-content')
+	 		.append('<a href="#" class="form-close"/>');
 
-	// 	$('[href*="#newsletter"]').on('click', function(e){
-	// 		e.preventDefault();
+	 	$('[href*="#newsletter"]').on('click', function(e){
+	 		e.preventDefault();
 
-	// 		$form.addClass('form-shown');
-	// 	});
+	 		$form.addClass('form-shown');
+	 	});
 
-	// 	$doc.on('click', function(e){
-	// 		var $target = $(e.target);
+	 	$doc.on('click', function(e){
+	 		var $target = $(e.target);
 
-	// 		if (($target.is('.form-close, .form-close *') || !$target.is('.nf-main-content, .nf-main-content *, [href*="#newsletter"], [href*="#newsletter"] *')) && $form.hasClass('form-shown')) {
-	// 			e.preventDefault();
+	 		if (($target.is('.form-close, .form-close *') || !$target.is('.nf-main-content, .nf-main-content *, [href*="#newsletter"], [href*="#newsletter"] *')) && $form.hasClass('form-shown')) {
+	 			e.preventDefault();
 
-	// 			$form.removeClass('form-shown');
-	// 		}
+	 			$form.removeClass('form-shown');
+	 		}
 
-	// 		if (!$target.is('.lang-switcher, .lang-switcher * ')) {
-	// 			$('.lang-switcher').removeClass('is-visible');
-	// 		}
-	// 	});
+	 		if (!$target.is('.lang-switcher, .lang-switcher * ')) {
+	 			$('.lang-switcher').removeClass('is-visible');
+	 		}
+	 	});
 
-	// 	if (window.location.href.indexOf('#newsletter') >= 0) {
-	// 		$form.addClass('form-shown');
-	// 	}
-	// }
+	 	if (window.location.href.indexOf('#newsletter') >= 0) {
+	 		$form.addClass('form-shown');
+	 	}
+	 }
 
 	// Check if 7 partner
 	if ($('.block.partner .pg-item').length > 6) {
