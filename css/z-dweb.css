@@ -86,4 +86,6 @@ display:none;
 .contact .contacts-list .cl-item-photo img {
     max-width: initial;
 }
-
+#cxpmClientAccountWidget{
+position : fixed !important;
+}
