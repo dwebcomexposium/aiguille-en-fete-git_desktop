@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190116T094237Z
+DESCRIPTION:\n
+DTEND;TZID="Romance Standard Time":20190310T180000
+DTSTAMP:20170620T062610Z
+DTSTART;TZID="Romance Standard Time":20190307T093000
+LAST-MODIFIED:20190116T094237Z
+LOCATION:Paris Expo Porte de Versailles
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Aiguille en fête 2019
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000100707DF9EE9D201000000000000000
+	010000000B380CB7C7130D34BB4F6D33ED0C48B72
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT SIZE=4 FACE="Calibri">
+	The unmissable event for those who are passionate about thread &amp\; need
+	le</FONT></SPAN></B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B><
+	/SPAN><B><SPAN LANG="en-us"></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="fr">
+	<B></B></SPAN><B><SPAN LANG="en-us"></SPAN></B></P>\n\n<P DIR=LTR><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Aiguille en fête i
+	s the reference show for the general public of the worlds of sewing\, knit
+	ting\, embroidery\, custo\, patchwork\, haberdashery\, lace\, weaving\, kn
+	itting\, crocheting\, tapestry ... and DIY 100%&nbsp\; “thread and needl
+	e”.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="en-us"><FONT FACE="Calibri">Aiguille en fête is not on
+	ly a great market of thread\, but also an open window on art and textile c
+	ulture. In fact\, 600m ² are dedicated to exhibitions of artists and muse
+	ums on the theme of White: Tradition &amp\; Passion.</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT FACE=
+	"Calibri">AIGUILLE EN FÊTE IS ALSO MORE THAN 1 000 HOURS OF WORKSHOPS</FO
+	NT></SPAN></B><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"></SPAN><
+	/B></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Calibri">The courses and wo
+	rkshops are taught by renowned international teachers to promote the trans
+	fer of skills and the discovery of new techniques and trends. Free animati
+	ons for all: Sewing Bar\, Crochet Bar\, Patch Bar\, Custo Bar\, Authors Ba
+	r\, Thread Bar\, but also Speed ​​Knitting\, the famous Knitting Champ
+	ionship.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Calibri">You will find on the sho
+	w nearly 240 exhibitors: Creative Haberdashery\, fabrics\, patterns\, ribb
+	on\, buttons\, pearls\, charms\, threads\, needles\, grid and embroidery k
+	its\, cross stitch\, patchwork\, quilt\, headers\, crochet\, knitting\, la
+	ce\, weaving\, sewing...</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
