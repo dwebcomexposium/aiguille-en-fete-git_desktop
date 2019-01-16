@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190116T091054Z
+DESCRIPTION:\n
+DTEND;TZID="Romance Standard Time":20190310T180000
+DTSTAMP:20170620T062610Z
+DTSTART;TZID="Romance Standard Time":20190307T093000
+LAST-MODIFIED:20190116T091054Z
+LOCATION:Paris Expo Porte de Versailles
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Salon Aiguille en fête 2019
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000100707DF9EE9D201000000000000000
+	010000000B380CB7C7130D34BB4F6D33ED0C48B72
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FONT SIZE=4 FACE="Calibri">Le 
+	rendez-vous incontournable des passionnés du fil et de l'aiguille</FONT><
+	/B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></
+	SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPA
+	N LANG="fr"><FONT FACE="Calibri">Aiguille en fête c’est le salon de ré
+	férence Grand Public des univers de la couture\, du tricot\, de la broder
+	ie\, de la custo\, du patchwork\, de la mercerie \, de la dentelle\, du ti
+	ssage\, du crochet\, de la tapisserie…et du faire soi-même 100% fil et 
+	aiguille.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN
+	 LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">A la fois grand marché du f
+	il et véritable fenêtre ouverte sur l’art et la culture textile : 600m
+	² dédiés aux expositions d’artistes et de musées.</FONT></SPAN><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN
+	 LANG="fr"><B><FONT FACE="Calibri">AIGUILLE EN FÊTE\, CE SONT EGALEMENT</
+	FONT></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPA
+	N><SPAN LANG="fr"><B><FONT FACE="Arial"></FONT></B></SPAN><SPAN LANG="fr">
+	<B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B> <FONT FACE
+	="Calibri">PLUS DE 1000 HEURES D’ATELIERS</FONT></B></SPAN><SPAN LANG="f
+	r"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FONT FA
+	CE="Arial"></FONT></B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN
+	><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">Les cours\, ateliers 
+	sont dispensés par des professeurs internationaux de renom pour favoriser
+	 la transmission de savoir-faire\, la découverte de techniques et tendanc
+	es. Des animations gratuites pour tous : Bar à couture\, Bar à crochet\,
+	 Bar à patch\, Bar à custo\, Bar des auteurs\, Bar à maille\, Bar à fi
+	l\, mais aussi le Speed Knitting®\, le célèbre Championnat de tricot de
+	 France de vitesse.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></
+	SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPA
+	N LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">Vous trouverez sur
+	 le salon près de 240 exposants :</FONT></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Arial"></FONT></SPAN><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FONT FACE="Cali
+	bri">mercerie créative\, tissus\, patrons\, rubanerie\, boutonnerie\, per
+	le\, charms\, fils\, aiguilles\, grilles et kits de broderie\, point de cr
+	oix\, patchwork\, quilt\, boutis\, crochet\, tricot\, dentelle\, tissage\,
+	 couture…</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
