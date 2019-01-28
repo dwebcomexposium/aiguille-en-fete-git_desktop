@@ -2171,3 +2171,7 @@ font-family: 'Playfair Display', serif !important; font-size: 32px; line-height:
 
 
 :lang(en) .site-banner .main-navigation { margin-left: -50px; }
+
+
+.article_list .intro { max-width: 800px; margin: 0 auto 52px; text-align: center; }
+.article_list .intro p { font-size: 15px; line-height: 1.68; letter-spacing: 0.1em; text-transform: uppercase; }
