@@ -1631,3 +1631,6 @@ p.pl-item-read-more a:hover { color: #d62688;  }
 
 :lang(en) .site-banner .main-navigation { margin-left: -50px; }
 
+#cxpmClientAccountWidget {position: absolute!important; right: 70px!important; }
+
+
