@@ -368,7 +368,7 @@ body:not(.espacepro) .site-banner.fixed .quicklinks .ql-item:nth-child(n) .btn-p
 .ico-pinterest { width: 11px; height: 15px; background-image: url(images/icons/ico-pinterest.png); }
 .ico-envelope { width: 17px; height: 13px; background-image: url(images/icons/ico-envelope.png); }
 .icon-shopping_basket { width: 19px; height: 18px; background-image: url(images/icons/ico-cart.png); }
-.ico-paper { /*width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(images/icons/ico-money.svg);*/ width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(images/icons/ico-facebook.svg);  }
+.ico-paper { width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(images/icons/ico-money.svg); /*width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(images/icons/ico-facebook.svg);*/  }
 .ico-paper-blue { width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(images/icons/ico-facebook-blue.svg); }
 .ico-arrow-left { width: 24px; height: 14px; background-image: url(images/icons/ico-arrow-left.png); }
 .ico-arrow-right { width: 24px; height: 14px; background-image: url(images/icons/ico-arrow-right.png); }
@@ -1631,6 +1631,4 @@ p.pl-item-read-more a:hover { color: #d62688;  }
 
 :lang(en) .site-banner .main-navigation { margin-left: -50px; }
 
-#cxpmClientAccountWidget {position: absolute!important; right: 70px!important; }
-
-
+#cxpmClientAccountWidget {position: absolute!important;  right: 70px!important; }
