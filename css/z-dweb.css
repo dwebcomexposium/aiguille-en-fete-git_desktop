@@ -86,3 +86,11 @@ display:none;
 .contact .contacts-list .cl-item-photo img {
     max-width: initial;
 }
+
+.article-wrapper figure.center img {
+    display: block;
+    /* width: 100%; */
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+}
