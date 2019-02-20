@@ -93,3 +93,7 @@ display:none;
     width: auto !important;
     margin: 0 auto;
 }
+
+.article figure small {
+    position: relative;
+}
