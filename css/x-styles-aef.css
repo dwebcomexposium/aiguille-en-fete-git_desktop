@@ -1617,7 +1617,7 @@ p.pl-item-read-more a:hover { color: #d62688;  }
 	Catalogue 
 \* ------------------------------------------------------------ */
 
-body.catalogue { background : transparent; }
+body.catalogue { background : transparent; background: #d9ecec }
 
 /*body.catalogue .layout-2-col [id="zone2"] { /*max-width:980px;  margin: 0 auto ; display: block; padding-bottom: 50px;*!/ width: 100%; }*/
 
