@@ -350,10 +350,10 @@ body:not(.espacepro) .site-banner.fixed .quicklinks .ql-item:nth-child(n) .btn-p
 .social-sharing .sr-item { padding: 0; margin: 0; border: 0; }
 .social-sharing .sr-item:after { display: none; }
 
-.social-sharing .sr-title { display: block; font-size: 13px; font-weight: 700; letter-spacing: 0.1em; color: #93d9d5; text-transform: uppercase; }
+.social-sharing .sr-title { display: block; font-size: 13px; font-weight: 700; letter-spacing: 0.1em; color: #877977; text-transform: uppercase; }
 .social-sharing .sr-title:after { content: ' Cette Page :'; }
 
-.social-sharing .social-sharing { max-width: 475px; padding: 15px 0; margin: 0 auto; border-top: 5px solid #e2f4f3; border-bottom: 5px solid #e2f4f3; }
+.social-sharing .social-sharing { max-width: 475px; padding: 15px 0; margin: 0 auto; border-top: 5px solid #877977; border-bottom: 5px solid #877977; }
 .social-sharing .social-sharing .inside { display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-align-items: center; -ms-flex-align: center; align-items: center; }
 
 /* ------------------------------------------------------------ *\
@@ -1127,7 +1127,7 @@ body:not(.espacepro) .block.quicklinks .btn-primary:after { content: ''; positio
 	Sub Navigation
 \* ------------------------------------------------------------ */
 
-.zone .main-navigation { padding: 0; margin: -20px 0 43px; box-shadow: none; z-index: 10; }
+.zone .main-navigation { padding: 0; margin: 50px 0 43px; box-shadow: none; z-index: 10; }
 .zone .mn-menu-line { position: static; display: block; padding: 0; border: 0; }
 .zone .mn-link-text:before { display: none; }
 .zone .mn-menu-item { position: static; }
