@@ -191,7 +191,7 @@
 	}
 
 // main nav
-$(".main-navigation ").appendTo(".site-banner .inside");
+$(".site-banner .main-navigation ").appendTo(".site-banner .inside");
 
 
 
