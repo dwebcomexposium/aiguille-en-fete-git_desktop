@@ -2146,7 +2146,7 @@ button.js-mySelection:hover span { color: #fff; }
         -ms-transform: none!important;
         transform: none!; }
         
-.page-events .mod-catal h2 {padding: 20px 0 10px!important; border-bottom:0; font-weight: 300!important; text-transform: uppercase; letter-spacing: 2px; text-align: left!important; font-size: 20px; }
+.page-events .mod-catal h2 {padding: 20px 0 10px!important; border-bottom:0; font-weight: bold!important; text-transform: uppercase; letter-spacing: 2px; text-align: left!important; font-size: 20px; border-bottom: none!important; }
 .page-events .catal-ed-main-session {float: left; padding-left: 20px; width: 640px; border-radius: 25px; background: none; }
 .page-events .catal-ed-main-address {margin: 0; padding-top: 7px!important; }
 .persons-event {font-weight: 700; color:#c3d8ef ; }
@@ -2232,6 +2232,6 @@ button.js-mySelection:hover span { color: #fff; }
 :lang(en) .site-banner .main-navigation {/* margin-left: -50px;*/ }
 
 #cxpmClientAccountWidget {position: absolute!important;  right: 70px!important; }
-#cxpmClientAccountWidget .widget-text span a, #cxpm-connect-sso-dropdown .widget-text span a {font-size: 12px; color: #2d3a69; }
+#cxpmClientAccountWidget .widget-text span a, #cxpm-connect-sso-dropdown .widget-text span a {font-size: 12px!important; color: #2d3a69; }
 #cxpmClientAccountWidget .widget-icon>span.number ,#cxpm-connect-sso-dropdown .widget-icon>span.number{background-color:#c94444;}
 
