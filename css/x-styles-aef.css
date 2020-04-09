@@ -1424,6 +1424,9 @@ body.aefpro:not(.espacepro) .block.quicklinks .ql-item:nth-child(4) .btn-primary
 
 .espacepro .header .header__content { padding-top: 0; margin-left: -31px; }
 
+
+.espacepro .mn-menu-line {justify-content: center;  padding-right: 50px }
+
 /* ------------------------------------------------------------ *\
 	Link Big
 \* ------------------------------------------------------------ */
