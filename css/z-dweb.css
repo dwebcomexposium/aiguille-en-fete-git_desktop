@@ -97,3 +97,13 @@ display:none;
 .article figure small {
     position: relative;
 }
+
+/*New catalog*/
+ 
+#catalog-v2 .bgTint {background-color: #d4e6f6!important;
+}
+/*Mise en avant RS*/
+#catalog-v2 .CatalogCard-title.CatalogCard-title--premium {background: #d4e6f6!important;}
+
+/*cacher encart présent sur */ 
+#catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {display: none !important;}
