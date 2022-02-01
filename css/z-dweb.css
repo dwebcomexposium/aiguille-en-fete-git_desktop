@@ -109,5 +109,5 @@ display:none;
 #catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {display: none !important;}
 
 .mod-catal .esf-as-list-filters li:last-child {
-    display: none;
+    display: none!important;
 }
