@@ -115,3 +115,8 @@ display:none;
 .pg-item {
     margin-left: 13em;
 }
+
+.univers .block.block-page.article-title.has-image{
+	float: left;
+	width: 33%;
+}
