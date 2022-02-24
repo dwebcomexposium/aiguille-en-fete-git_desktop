@@ -120,3 +120,9 @@ display:none;
 	float: left;
 	width: 33%;
 }
+.univers ul.at-tag.unstyled {
+    display: none;
+}
+.univers p.at-publication {
+    display: none;
+}
