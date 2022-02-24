@@ -126,3 +126,11 @@ display:none;
 .univers p.at-publication {
     display: none;
 }
+.univers h2.main-title.at-main-title a {
+    font-family: 'Playfair Display', serif !important;
+    font-size: 32px;
+    line-height: 1.3;
+    color: #2d3a69 !important;
+    position: relative;
+    z-index: 2;
+}
