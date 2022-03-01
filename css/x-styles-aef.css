@@ -374,7 +374,7 @@ body:not(.espacepro) .site-banner.fixed .quicklinks .ql-item:nth-child(n) .btn-p
 .ico-pinterest { width: 11px; height: 15px; background-image: url(n-images/icons/ico-pinterest.png); }
 .ico-envelope { width: 17px; height: 13px; background-image: url(n-images/icons/ico-envelope.png); }
 .icon-shopping_basket { width: 19px; height: 18px; background-image: url(n-images/icons/ico-cart.png); }
-.ico-paper { width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-money.svg); /*width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-facebook.svg);*/  }
+.ico-paper { width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-ticket.svg); /*width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-facebook.svg);*/  }
 .ico-paper-blue { width: 29px; height: 40px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-facebook-blue.svg); }
 .ico-arrow-left { width: 24px; height: 14px; background-image: url(n-images/icons/ico-arrow-left.png); }
 .ico-arrow-right { width: 24px; height: 14px; background-image: url(n-images/icons/ico-arrow-right.png); }
@@ -570,12 +570,12 @@ header .event a:hover { opacity: .7; }
 .link-big:hover .link__image i { -webkit-animation: upDown .5s; animation: upDown .5s; }
 
 .link-big * { font-family: 'Playfair Display', serif !important; }
-.link-big small { display: block; font-size: 23px; }
-.link-big > span { position: relative; -webkit-flex: 0 1 100%; -ms-flex: 0 1 100%; flex: 0 1 100%; top: -2px; }
+.link-big small { display: block; font-size: 33px; }
+.link-big > span { position: relative; -webkit-flex: 0 1 100%; -ms-flex: 0 1 100%; flex: 0 1 100%; top: -1px; }
 
 .link-big .link__image { position: relative; -webkit-flex: 0 0 87px; -ms-flex: 0 0 87px; flex: 0 0 87px; margin: 0 34px 0 0; }
 .link-big .link__image:before { content: ''; position: absolute; width: 119px; height: 113px; top: 50%; left: 50%; margin: -56px 0 0 -60px; background-image: url(n-images/polygon-dots.png); }
-.link-big .link__image span { display: block; width: 87px; height: 86px; margin: 0 auto; overflow: hidden; padding-top: 15px; text-align: center; background-image: url(n-images/polygon.png); background-size: 100% 100%; }
+.link-big .link__image span { display: block; width: 87px; height: 86px; margin: 0 auto; overflow: hidden; padding-top: 15px; text-align: center; background-image: url(n-images/poly-new.png); background-size: 100% 100%; }
 
 .link-big:focus,
 .link-big:hover { opacity: 1; color: #2d3a69; }
@@ -808,13 +808,20 @@ body:not(.espacepro) .block.quicklinks .ql-list { display: -webkit-flex; display
 
 body:not(.espacepro) .block.quicklinks .ql-item { position: relative; display: -webkit-flex; display: -ms-flexbox; display: flex; height: 86px; -webkit-flex: 0 0 25%; -ms-flex: 0 0 25%; flex: 0 0 25%; -webkit-align-items: center; -ms-flex-align: center; align-items: center; overflow: hidden; }
 body:not(.espacepro) .block.quicklinks .ql-item:nth-child(1) .btn-primary:after { width: 40px; height: 42px; top: 0px; left: 23px; background-image: url(n-images/icons/ico-clock.svg); }
-body:not(.espacepro) .block.quicklinks .ql-item:nth-child(2) .btn-primary:after { width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-money.svg); }
+body:not(.espacepro) .block.quicklinks .ql-item:nth-child(2) .btn-primary:after { width: 45px; height: 48px; top: -12px; left: 19px; background-image: url(n-images/icons/ico-ticket.svg); }
 body:not(.espacepro) .block.quicklinks .ql-item:nth-child(3) .btn-primary:after { width: 47px; height: 34px; top: 3px; left: 18px; background-image: url(n-images/icons/ico-map.svg); }
 body:not(.espacepro) .block.quicklinks .ql-item:nth-child(4) .btn-primary:after { width: 31px; height: 48px; top: -6px; left: 27px; background-image: url(n-images/icons/ico-head.svg); }
 
+
+body:not(.espacepro) #zone2 .block.quicklinks .ql-item:nth-child(1) .btn-primary:after { width: 40px; height: 42px; top: 10px; left: 23px; background-image: url(n-images/icons/ico-clock.svg); }
+body:not(.espacepro) #zone2 .block.quicklinks .ql-item:nth-child(2) .btn-primary:after { width: 45px; height: 48px; top: -4px; left: 19px; background-image: url(n-images/icons/ico-ticket.svg); }
+body:not(.espacepro) #zone2 .block.quicklinks .ql-item:nth-child(3) .btn-primary:after { width: 47px; height: 34px; top: 3px; left: 18px; background-image: url(n-images/icons/ico-map.svg); }
+body:not(.espacepro) #zone2 .block.quicklinks .ql-item:nth-child(4) .btn-primary:after { width: 31px; height: 48px; top: 4px; left: 27px; background-image: url(n-images/icons/ico-head.svg); }
+
+
 body:not(.espacepro) .block.quicklinks .btn-primary { position: relative; display: block; max-width: 196px; padding: 0 0 0 111px; border: 0; box-shadow: none; font-size: 19px; line-height: 1; color: #2d3a69; background: none; text-align: left; text-transform: none; }
 body:not(.espacepro) .block.quicklinks .btn-primary:hover:after { -webkit-animation: upDown .5s; animation: upDown .5s; }
-body:not(.espacepro) .block.quicklinks .btn-primary:before { content: ''; position: absolute; display: block; width: 87px; height: 86px; top: 50%; left: 0; margin-top: -43px; background-image: url(n-images/polygon.png); background-size: 100% 100%; }
+body:not(.espacepro) .block.quicklinks .btn-primary:before { content: ''; position: absolute; display: block; width: 87px; height: 86px; top: 50%; left: 0; margin-top: -43px; background-image: url(n-images/poly-new.png); background-size: 100% 100%; }
 body:not(.espacepro) .block.quicklinks .btn-primary:after { content: ''; position: absolute; background-size: 100% 100%; }
 
 /* ------------------------------------------------------------ *\
