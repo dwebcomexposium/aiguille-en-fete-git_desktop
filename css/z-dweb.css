@@ -134,3 +134,7 @@ display:none;
     position: relative;
     z-index: 2;
 }
+
+.expositions .gla-item .gla-item-title {
+    padding-bottom: 32px;
+}
