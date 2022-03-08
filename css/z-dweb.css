@@ -138,3 +138,6 @@ display:none;
 .expositions .gla-item .gla-item-title {
     padding-bottom: 32px;
 }
+.expositions .gla-item-content p:not(.gla-item-btn) {
+    font-size: initial;
+}
