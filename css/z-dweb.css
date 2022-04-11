@@ -141,3 +141,7 @@ display:none;
 .expositions .gla-item-content p:not(.gla-item-btn) {
     font-size: initial;
 }
+
+.block.global-search-form {
+    left: 56%;
+}
