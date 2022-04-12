@@ -143,5 +143,5 @@ display:none;
 }
 
 .block.global-search-form {
-    left: 56%;
+    left: 56% !important;
 }
