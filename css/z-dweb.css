@@ -145,3 +145,10 @@ display:none;
 .block.global-search-form {
     left: 56% !important;
 }
+body {
+    background: #6464bF;
+}
+.site-footer .footer__nav a {
+    color: white;
+    font-weight: bold;
+}
