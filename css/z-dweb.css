@@ -152,3 +152,6 @@ body {
     color: white;
     font-weight: bold;
 }
+body:not(.espacepro) .block.quicklinks .btn-primary:before {
+    background-image: url(n-images/AEF-fond.png);
+}
