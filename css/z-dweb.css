@@ -155,3 +155,6 @@ body {
 body:not(.espacepro) .block.quicklinks .btn-primary:before {
     background-image: url(n-images/AEF-fond.png);
 }
+.link-big .link__image span {
+    background-image: url(n-images/AEF-fond.png);
+}
